@@ -31,7 +31,7 @@ body{
 h1, p, .name, .bio {	
     font-family: 'Raleway', sans-serif;	
     text-align: center;	
-    margin: 4%;	
+    margin: 0%;	
 }	
 h1{
     font-size:6rem;
@@ -137,7 +137,7 @@ button:hover{
 
 @media (max-width: 500px) {
 *{
-    width: 100%;
+    max-width: 100%;
     }
 }
 h1{
@@ -167,13 +167,25 @@ nav span{
     display:flex;
     flex-direction: column;
     justify-content: center;
+    text-align: center;
+    align-items: center;
     width:70%;
     margin:0 auto;
 }
 .artist{
+    height: 0%;
     width:100%;
     text-align:center;
 }
 .artist img{
     width:100%;
+}
+img {	
+    object-fit:contain;	
+    display: flex;		
+    border-radius: 4%;
+    height: 30vh;
+}
+.bio {
+    font-size: 1rem;
 }
