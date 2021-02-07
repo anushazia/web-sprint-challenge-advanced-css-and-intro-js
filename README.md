@@ -23,9 +23,23 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+Accessibility is being able to use on different media platforms, ipads, cell-phones. Not only that but people of different abilities have to be able to access the website so it should be easy for screen readers to interpret whats on your website.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+Have responsive units by using REM, EM and % for the most part because these are scalable. Another way to ensure accessibility is to make it easy for screen readers to be able to interpret your code. Use alt text to describe images, this makes it easier for the screen readers to translate your webpage for people with visual impairments. The 3rd way to ensure accesibility is have good color contrast and keep in mind the proper use of white space, espeically when acccessed by bigger screens. Make sure the tabs and buttoms as well as content appears properly for tablets and mobile devices.
+
+
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+I would say that think of variables as baskets that hold information. They are just baskets that can hold all types of data. Variables by themselves don't do anything if there is no information inside them. They are basically like empty baskets until you pass information into them. Variables only become useful when they hold a value. Like a basket, it doesnt do anything unless you put something inside it, books, clothes, laundry, fruits, all kind of things can be stored into baskets just like all kinds of information can be stored into variables.
+
 4. What is the purpose of using functions in code?
+
+The purpose of using functions in code is package up steps that we would normally have to use and reuse and create them into functions that can be used/reused when we need them. It is used essentially as a shortcut by packaging up lines of code so that they can be reused if needed.
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
